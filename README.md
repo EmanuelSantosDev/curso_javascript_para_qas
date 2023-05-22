@@ -1,1 +1,1 @@
-# curso_javascript_para_qas
+# Curso "Javascript para QAs" da QAXperience
