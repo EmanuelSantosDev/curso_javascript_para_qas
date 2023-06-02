@@ -16,37 +16,10 @@
         <small>Olá, {{ userName }}</small>
 
         <div class="characters">
-            <div class="item">
-                <img src="images/yoda.png" alt="Foto do Yoda">
-                <p>Yoda</p>
-            </div>
-            <div class="item">
-                <img src="images/c3po.png" alt="Foto do C3pO">
-                <p>C3pO</p>
-            </div>
-            <div class="item">
-                <img src="images/chewbacca.png" alt="Foto do Chewbacca">
-                <p>Chewbacca</p>
-            </div>
-            <div class="item">
-                <img src="images/hansolo.png" alt="Foto do Han Solo">
-                <p>Han Solo</p>
-            </div>
-            <div class="item">
-                <img src="images/leia.png" alt="Foto da Princesa Leia">
-                <p>Princesa Leia</p>
-            </div>
-            <div class="item">
-                <img src="images/luke.png" alt="Foto do Luke Skywalker">
-                <p>Luke Skywalker</p>
-            </div>
-            <div class="item">
-                <img src="images/r2d2.png" alt="Foto do R2D2">
-                <p>R2D2</p>
-            </div>
-            <div class="item">
-                <img src="images/vader.png" alt="Foto do Darth Vader">
-                <p>Darth Vader</p>
+            <!-- v-for = for...in do Javascript -->
+            <div class="item" v-for="item of characters">
+                <img :src="item.avatar" :alt="item.nome">
+                <p>{{ item.nome }}</p>
             </div>
         </div>
 
