@@ -1,6 +1,3 @@
-console.log('<<<<<< CONSTANTES >>>>>>')
-
-
 const personagem = 'Darth Vader'
 console.log(personagem)
 // Darth Vader

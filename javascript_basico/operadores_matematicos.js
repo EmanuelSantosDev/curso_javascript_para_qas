@@ -1,6 +1,3 @@
-console.log('<<<<<< OPERADORES MATEMÁTICOS >>>>>>')
-
-
 // + para somar
 // - para subtrair
 // * para multiplicar

@@ -1,6 +1,3 @@
-console.log('<<<<<< LAÇOS DE REPETIÇÃO >>>>>>')
-
-
 var personagens = ['Mestre Yoda', 'Luke Skywalker', 'Princesa Leia', 'Darth Vader']
 
 

@@ -1,6 +1,3 @@
-console.log('<<<<<< ARRAYS >>>>>>')
-
-
 // >>>>>> Exemplo 1
 
 

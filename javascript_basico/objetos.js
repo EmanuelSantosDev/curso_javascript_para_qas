@@ -1,6 +1,3 @@
-console.log('<<<<<< OBJETOS >>>>>>')
-
-
 var yoda = {}
 
 yoda.nome = 'Mestre Yoda'

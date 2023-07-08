@@ -1,6 +1,3 @@
-console.log('<<<<<< OPERADORES DE COMPARAÇÃO >>>>>>')
-
-
 // Operador de igualdade (==)
 // Operador de igualdade estrita (===)
 // Operador de desigualdade (!=)

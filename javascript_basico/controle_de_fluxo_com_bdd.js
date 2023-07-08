@@ -1,6 +1,3 @@
-console.log('<<<<<< CONTROLE DE FLUXO COM BDD >>>>>>')
-
-
 // SENDO um cliente correntista do banco
 // POSSO sacar dinheiro em caixas eletrônicos
 // PARA poder comprar em lugares que não aceitam o cartão de débito ou crédito
